@@ -43,8 +43,8 @@ body {
   font-family: "General Sans", sans-serif;
   background-color: var(--clr-dark);
   color: var(--clr-light);
-  width: 80%;
-  margin: auto;
+  /* width: 80%; */
+  /* margin: auto; */
 }
 
 img,
