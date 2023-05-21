@@ -14,3 +14,6 @@ import "../styles/utils.css";
 import mobileNav from './utils/mobile-nav.js';
 mobileNav();
 
+import changeColor from './utils/dark-mode.js';
+changeColor();
+

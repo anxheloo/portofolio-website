@@ -22,7 +22,7 @@ mobileLinks.forEach((element)=>{
     element.addEventListener('click', ()=>{
         isMobileNavOpen = false;
         mobileNav.style.display = 'none';
-        document.body.style.overflowY = 'auto';
+        // document.body.style.overflowY = 'auto';
     })
 })
 };
